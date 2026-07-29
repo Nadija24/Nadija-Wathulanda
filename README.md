@@ -5,7 +5,7 @@
 
 - 🎓 Final-year **BSc (Hons) Information Technology** student at Sri Lanka Institute of Information Technology (SLIIT)
 
-- 🚀 Currently building **[SkillBridge](https://github.com/Nadija24/R26-IT-003)** — a microservices-based adaptive e-learning platform with facial emotion recognition, ML-driven difficulty prediction, knowledge-gap localization, and OpenAI-powered coding exercise generation
+- 🚀 Currently building **SkillBridge**, a final-year research project: a microservices-based adaptive e-learning platform. Working in a team, I've contributed to the React frontend, the Node.js/Express API gateway that routes requests across the backend microservices, facial emotion recognition (TensorFlow.js, face-api.js) that triggers real-time learning interventions, an AI-generated coding exercise module powered by the OpenAI API, and the Docker Compose + GitHub Actions CI/CD setup used to deploy the platform to AWS EC2
 
 - 🌱 Learning more about **Machine Learning, LLM integration, and cloud-native architecture**
 
